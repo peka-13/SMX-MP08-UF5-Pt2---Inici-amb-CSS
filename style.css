@@ -21,13 +21,14 @@
   }
 
   
-  ul {
-    list-style: none;
-    padding-left: 50px;
-    position: relative;
-  }
-  
-  li {
+
+div.lista1 ul {
+  list-style: none;
+  padding-left: 50px;
+  position: relative;
+}
+
+div.lista1 li {
     content: "";
     position: absolute;
     top: 12px;
