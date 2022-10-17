@@ -19,3 +19,24 @@
     background-color: #04AA6D; /* Add a green color to the "active/current" link */
     color: white;
   }
+
+  
+  ul {
+    list-style: none;
+    padding-left: 50px;
+    position: relative;
+  }
+  
+  li {
+    content: "";
+    position: absolute;
+    top: 12px;
+    left: 5px;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    background-size: contain;
+    background-image: url("IMG/gnome.png");
+  }
+      
+  
