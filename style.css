@@ -22,22 +22,15 @@
 
   
 
-div.lista1 ul {
-  list-style: none;
-  padding-left: 50px;
-  position: relative;
+div .lista1 ul {
+  background: #3399ff;
+  padding: 20px;
 }
 
-div.lista1 li {
-    content: "";
-    position: absolute;
-    top: 12px;
-    left: 5px;
-    display: inline-block;
-    height: 30px;
-    width: 30px;
-    background-size: contain;
-    background-image: url("IMG/gnome.png");
+div .lista1 ul li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
   }
       
   
