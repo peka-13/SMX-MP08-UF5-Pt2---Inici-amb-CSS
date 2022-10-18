@@ -1,37 +1,36 @@
-.header img{
-  float:left;
-  margin-top:2px;
-  margin-right:4px ;
-}
-
-  div.lista1 ol {
-  background: #F5F5DC;
-  padding: 35px;
-  font-size: 150%;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  color: black;
+/* TOP NAVIGATION VAR */
+.vertical-menu {
+    width: 200px; /* Set a width if you like */
   }
-  div.lista1 ul {
-    box-shadow: inset 0 0 0 0 #000000;
-    color: #000000;
-    margin: 0 -.25rem;
-    padding: 0 .25rem;
+  
+  .vertical-menu a {
+    background-color: #eee; /* Grey background color */
+    color: black; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
   }
-
-  .hover1 {
-    box-shadow: inset 0 0 0 0 #d3c9ba;
-  color: #000000;
-  margin: 0 -.25rem;
-  padding: 0 .25rem;
-  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+  
+  .vertical-menu a:hover {
+    background-color: #ccc; /* Dark grey background on mouse-over */
   }
-
-  .hover1:hover {
-    box-shadow: inset 100px 0 0 0 #6e6960;
+  
+  .vertical-menu a.active {
+    background-color: #04AA6D; /* Add a green color to the "active/current" link */
     color: white;
   }
-  a:link { text-decoration: none; }
-  a:visited { text-decoration: none; }
-  a:active { text-decoration: none; }
+
+  
+
+div .lista1 ul {
+  background: #3399ff;
+  padding: 20px;
+}
+
+div .lista1 ul li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+  }
       
   
