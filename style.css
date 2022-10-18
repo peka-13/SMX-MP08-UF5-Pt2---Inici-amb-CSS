@@ -22,16 +22,16 @@
 
   
 
-  .lista1 ol {
+  ol .lista1 div {
   background: #3336f2;
   padding: 20px;
    }
-  .lista1 ul {
+  div .lista1 ul {
   background: #3399ff;
   padding: 20px;
   }
 
-  .lista1 ul li {
+  div .lista1 ul li {
   background: #cce5ff;
   color: darkblue;
   margin: 5px;
