@@ -2,7 +2,7 @@ La pràctica consisteix a crear una web de receptes de cuina (podeu agafar les r
 Aquesta web s'haurà de publicar a GitHub Pages amb el nom smx-m8-uf5-practica2 S'haurà de preparar un servidor web local, 
 per al desenvolupament de la web. El desenvolupament de la web haurà de complir, al menys, els següents criteris:
 
-    Una pàgina principal on estigui la llista de receptes (<ul> o <ol>):
+    Una pàgina principal on estigui la llista de receptes (<ul> o <ol>):  
         Aquesta llista ha d'estar imbrincada, classificant les receptes en categories
         Cada element de la llista ha d'enllaçar a una altra pàgina on es trobi la recepta. 
 
